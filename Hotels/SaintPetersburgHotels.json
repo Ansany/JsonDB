@@ -8,7 +8,7 @@
             "description": "",
             "stars": 4,
             "distance": 1594.0,
-            "suitesAvailability": "18",
+            "suitesAvailability": 18,
             "firstImage": "24141",
             "images": [
                 "24141", "241412", "241413"
