@@ -4,7 +4,7 @@
         "name": "Modern Big Apart at Anichkov bridge",
         "fullInfo":
             {
-            "adress": "39 Невский проспект",
+            "address": "39 Невский проспект",
             "description": "",
             "stars": 4,
             "distance": 1594.0,
@@ -22,7 +22,7 @@
         "id": 17652,
         "name": "YES SEVEN Aparts",
         "fullInfo": {
-            "adress": "21A Социалистическая",
+            "address": "21A Социалистическая",
             "description": "",
             "stars": 4,
             "distance": 2867.0,
@@ -39,7 +39,7 @@
         "id": 376421,
         "name": "Romantic apartment with panoramic view",
         "fullInfo": {
-            "adress": "4 Воскресенская наб.",
+            "address": "4 Воскресенская наб.",
             "description": "",
             "stars": 5,
             "distance": 3320.0,
@@ -56,7 +56,7 @@
         "id": 787552,
         "name": "Апартаменты Золотого Труегольника/Golden Triangle apartments",
         "fullInfo": {
-            "adress": "5 Большая Конюшенная",
+            "address": "5 Большая Конюшенная",
             "description": "",
             "stars": 4,
             "distance": 522.0,
@@ -73,7 +73,7 @@
         "id": 756352,
         "name": "RentApartmentSpb",
         "fullInfo": {
-            "adress": "72 Грибоедова",
+            "address": "72 Грибоедова",
             "description": "",
             "stars": 3,
             "distance": 1487.0,
@@ -90,7 +90,7 @@
         "id": 52437,
         "name": "Колейдоскоп Центральный",
         "fullInfo": {
-            "adress": "108 Невский проеспект",
+            "address": "108 Невский проеспект",
             "description": "",
             "stars": 3,
             "distance": 2572.0,
