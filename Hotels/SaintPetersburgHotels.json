@@ -6,7 +6,7 @@
             {
             "adress": "39 Невский проспект",
             "description": "",
-            "stars": "4",
+            "stars": 4,
             "distance": 1594.0,
             "suitesAvailability": "18",
             "firstImage": "24141",
