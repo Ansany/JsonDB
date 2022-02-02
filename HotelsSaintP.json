@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1846,
+        "name": "Modern Big Apart at Anichkov bridge",
+        "fullInfo":
+            {
+            "adress": "39 Невский проспект",
+            "description": "",
+            "stars": "4",
+            "distance": 1594.0,
+            "suitesAvailability": "18",
+            "firstImage": "24141",
+            "images": [
+                "24141", "241412", "241413"
+            ],
+            "lat": 59.93322,
+            "lon": 30.33989
+            }
+        
+    },
+    {
+        "id": 17652,
+        "name": "YES SEVEN Aparts",
+        "fullInfo": {
+            "adress": "21A Социалистическая",
+            "description": "",
+            "stars": 4,
+            "distance": 2867.0,
+            "suitesAvailability": 7,
+            "firstImage": "572234",
+            "images": [
+                "572234", "5722342", "5722343"
+            ],
+            "lat": 59.92019,
+            "lon": 30.34604
+        }
+    },
+    {
+        "id": 376421,
+        "name": "Romantic apartment with panoramic view",
+        "fullInfo": {
+            "adress": "4 Воскресенская наб.",
+            "description": "",
+            "stars": 5,
+            "distance": 3320.0,
+            "suitesAvailability": 3,
+            "firstImage": "56233",
+            "images": [
+                "56233", "562332", "562333"
+            ],
+            "lat": 59.95026,
+            "lon": 30.37020
+        }
+    },
+    {
+        "id": 787552,
+        "name": "Апартаменты Золотого Труегольника/Golden Triangle apartments",
+        "fullInfo": {
+            "adress": "5 Большая Конюшенная",
+            "description": "",
+            "stars": 4,
+            "distance": 522.0,
+            "suitesAvailability": 11,
+            "firstImage": "317677236",
+            "images": [
+                "317677236", "317677279", "317677281"
+            ],
+            "lat": 59.94038,
+            "lon": 30.32384
+        }
+    },
+    {
+        "id": 756352,
+        "name": "RentApartmentSpb",
+        "fullInfo": {
+            "adress": "72 Грибоедова",
+            "description": "",
+            "stars": 3,
+            "distance": 1487.0,
+            "suitesAvailability": 19,
+            "firstImage": "262097855",
+            "images": [
+                "262097855", "309196500", "309196505"
+            ],
+            "lat": 59.92578,
+            "lon": 30.31126
+        }
+    },
+    {
+        "id": 52437,
+        "name": "Колейдоскоп Центральный",
+        "fullInfo": {
+            "adress": "108 Невский проеспект",
+            "description": "",
+            "stars": 3,
+            "distance": 2572.0,
+            "suitesAvailability": 23,
+            "firstImage": "",
+            "images": [
+                ""
+            ],
+            "lat": 59.93249,
+            "lon": 30.35766
+        }
+    }
+]
